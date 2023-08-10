@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AppliedActivity5</name>
+    </assembly>
+    <members>
+        <member name="T:AppliedActivity5.View.StudentListViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:AppliedActivity5.View.StudentListViewModel.StudentObservableCollection">
+            <inheritdoc cref="F:AppliedActivity5.View.StudentListViewModel.studentObservableCollection"/>
+        </member>
+        <member name="P:AppliedActivity5.View.StudentListViewModel.StudentName">
+            <inheritdoc cref="F:AppliedActivity5.View.StudentListViewModel.studentName"/>
+        </member>
+        <member name="P:AppliedActivity5.View.StudentListViewModel.StudentNumber">
+            <inheritdoc cref="F:AppliedActivity5.View.StudentListViewModel.studentNumber"/>
+        </member>
+        <member name="T:AppliedActivity5.ViewModel.StudentViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:AppliedActivity5.ViewModel.StudentViewModel.StudentName">
+            <inheritdoc cref="F:AppliedActivity5.ViewModel.StudentViewModel.studentName"/>
+        </member>
+        <member name="P:AppliedActivity5.ViewModel.StudentViewModel.Address">
+            <inheritdoc cref="F:AppliedActivity5.ViewModel.StudentViewModel.address"/>
+        </member>
+        <member name="P:AppliedActivity5.ViewModel.StudentViewModel.StudentAge">
+            <inheritdoc cref="F:AppliedActivity5.ViewModel.StudentViewModel.studentAge"/>
+        </member>
+        <member name="P:AppliedActivity5.ViewModel.StudentViewModel.StudentNumber">
+            <inheritdoc cref="F:AppliedActivity5.ViewModel.StudentViewModel.studentNumber"/>
+        </member>
+        <member name="F:AppliedActivity5.ViewModel.StudentViewModel._addStudentCommand">
+            <summary>The backing field for <see cref="P:AppliedActivity5.ViewModel.StudentViewModel.addStudentCommand"/>.</summary>
+        </member>
+        <member name="P:AppliedActivity5.ViewModel.StudentViewModel.addStudentCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:AppliedActivity5.ViewModel.StudentViewModel.addStudent"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.StudentObservableCollection">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "StudentObservableCollection" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.StudentName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "StudentName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.StudentNumber">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "StudentNumber" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Address">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Address" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.StudentAge">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "StudentAge" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.StudentObservableCollection">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "StudentObservableCollection" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.StudentName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "StudentName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.StudentNumber">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "StudentNumber" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Address">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Address" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.StudentAge">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "StudentAge" generated properties.</summary>
+        </member>
+    </members>
+</doc>

@@ -39,3 +39,21 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppliedActivity5.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/View/AddStudentScreen.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppliedActivity5.View.AddStudentScreen.xaml
+build_metadata.AdditionalFiles.TargetPath = View/AddStudentScreen.xaml
+build_metadata.AdditionalFiles.RelativePath = View/AddStudentScreen.xaml
+
+[/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/View/StudentDetailsScreen.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppliedActivity5.View.StudentDetailsScreen.xaml
+build_metadata.AdditionalFiles.TargetPath = View/StudentDetailsScreen.xaml
+build_metadata.AdditionalFiles.RelativePath = View/StudentDetailsScreen.xaml
+
+[/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/View/StudentListScreen.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppliedActivity5.View.StudentListScreen.xaml
+build_metadata.AdditionalFiles.TargetPath = View/StudentListScreen.xaml
+build_metadata.AdditionalFiles.RelativePath = View/StudentListScreen.xaml

@@ -1,12 +1,17 @@
-﻿namespace AppliedActivity5;
+﻿using AppliedActivity5.Repository;
+
+namespace AppliedActivity5;
 
 public partial class App : Application
 {
-	public App()
+	public static StudentRepo StudentRepository { get; private set; }
+	public App(StudentRepo repo)
 	{
 		InitializeComponent();
 
 		MainPage = new AppShell();
+
+		StudentRepository = repo;
 	}
 }
 

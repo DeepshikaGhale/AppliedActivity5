@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppliedActivity5.View.AddStudentScreen"
+             xmlns:vm="clr-namespace:AppliedActivity5.ViewModel"
+             x:DataType="vm:StudentViewModel"
+             Title="AddStudentScreen">
+
+    <ScrollView>
+        <VerticalStackLayout Margin="0, 25, 0, 25">
+
+            <Frame Padding="15, 6, 15, 6" Margin="20, 5, 20, 15">
+                <Entry Placeholder="Student Name" Text="{Binding StudentName}" />
+            </Frame>
+
+            <Frame Padding="15, 6, 15, 6" Margin="20, 5, 20, 15">
+                <Entry Placeholder="Student Age" Text="{Binding StudentAge}" Keyboard="Numeric"/>
+            </Frame>
+
+            <Frame Padding="15, 6, 15, 6" Margin="20, 5, 20, 15">
+                <Entry Placeholder="Student Address" Text="{Binding Address}"/>
+            </Frame>
+
+            <Frame Padding="15, 6, 15, 6" Margin="20, 5, 20, 15">
+                <Entry Placeholder="Student Number" Text="{Binding StudentNumber}"/>
+            </Frame>
+            <Button Text="Submit Student Details" Padding="15" Margin="20, 0, 20, 0" Command="{Binding addStudentCommand}"/>
+            <Button Text="Show Student List" Padding="15" Margin="20, 0, 20, 0" Command="{Binding GoToListCommand}" />
+
+        </VerticalStackLayout>
+
+        
+
+    </ScrollView>
+
+</ContentPage>
