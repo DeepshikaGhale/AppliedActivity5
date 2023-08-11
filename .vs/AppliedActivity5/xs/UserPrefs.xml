@@ -1,4 +1,51 @@
 ﻿<Properties StartupConfiguration="{7CBAA22F-0B29-4DCF-AC2D-0250C1DBBAA3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppliedActivity5/View/StudentListScreen.xaml">
+    <Files>
+      <File FileName="AppliedActivity5/View/StudentListViewModel.cs" Line="29" Column="13" />
+      <File FileName="AppliedActivity5/ViewModel/StudentViewModel.cs" Line="58" Column="4" />
+      <File FileName="AppliedActivity5/Repository/StudentRepo.cs" Line="29" Column="1" />
+      <File FileName="AppliedActivity5/View/StudentListScreen.xaml" Line="15" Column="57" />
+      <File FileName="AppliedActivity5/MainPage.xaml" Line="42" Column="45" />
+      <File FileName="AppliedActivity5/View/StudentDetailsScreen.xaml" Line="10" Column="34" />
+      <File FileName="AppliedActivity5/View/StudentListScreen.xaml.cs" Line="21" Column="6" />
+      <File FileName="AppliedActivity5/View/AddStudentScreen.xaml" Line="30" Column="31" />
+      <File FileName="../../../../usr/local/share/dotnet/packs/Microsoft.iOS.Sdk/16.4.47/tools/msbuild/iOS/Xamarin.Shared.targets" Line="1738" Column="3" />
+      <File FileName="AppliedActivity5/Model/StudentModel.cs" Line="11" Column="26" />
+      <File FileName="AppliedActivity5/App.xaml" Line="1" Column="1" />
+      <File FileName="AppliedActivity5/AppShell.xaml.cs" Line="10" Column="1" />
+      <File FileName="AppliedActivity5/AppShell.xaml" Line="13" Column="1" />
+      <File FileName="AppliedActivity5/MainPage.xaml.cs" Line="25" Column="1" />
+      <File FileName="AppliedActivity5/App.xaml.cs" Line="11" Column="1" />
+      <File FileName="AppliedActivity5/View/AddStudentScreen.xaml.cs" Line="13" Column="4" />
+      <File FileName="AppliedActivity5/View/StudentDetailsScreen.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppliedActivity5" expanded="True">
+            <Node name="AppliedActivity5" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.AppliedActivity5 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/ViewModel/StudentViewModel.cs" relfile="AppliedActivity5/ViewModel/StudentViewModel.cs" line="45" column="1" />
+      <Breakpoint file="/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/Repository/StudentRepo.cs" relfile="AppliedActivity5/Repository/StudentRepo.cs" line="27" column="1" />
+      <Breakpoint file="/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/Repository/StudentRepo.cs" relfile="AppliedActivity5/Repository/StudentRepo.cs" line="32" column="1" />
+      <Breakpoint file="/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/Repository/StudentRepo.cs" relfile="AppliedActivity5/Repository/StudentRepo.cs" line="33" column="1" />
+      <Breakpoint file="/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/Repository/StudentRepo.cs" relfile="AppliedActivity5/Repository/StudentRepo.cs" line="28" column="1" />
+      <Breakpoint file="/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/Repository/StudentRepo.cs" relfile="AppliedActivity5/Repository/StudentRepo.cs" line="29" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AppliedActivity5 PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

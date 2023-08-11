@@ -1,15 +1,18 @@
-﻿using AppliedActivity5.Modal;
+﻿using AndroidX.Lifecycle;
+using AppliedActivity5.Modal;
 
 namespace AppliedActivity5.View;
 
 public partial class StudentListScreen : ContentPage
 {
+    private StudentListViewModel _viewModel;
 
 	public StudentListScreen()
 	{
 		InitializeComponent();
-        BindingContext = new StudentListViewModel();
-	}
+        _viewModel = new StudentListViewModel();
+        BindingContext = _viewModel;
+    }
 
     private async void StudentList_ItemSelected(object obj, SelectedItemChangedEventArgs e)
     {
@@ -20,9 +23,9 @@ public partial class StudentListScreen : ContentPage
 
     }
 
-    private async void AddStudents(object sender, EventArgs e)
-    {
-       await Navigation.PushAsync(new AddStudentScreen());
+    protected override void OnAppearing() {
+        base.OnAppearing();
+        //loads the data
+        _viewModel.getAllStudents();
     }
-        
 }

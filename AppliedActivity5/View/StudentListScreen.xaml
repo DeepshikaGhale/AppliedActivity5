@@ -12,9 +12,10 @@
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
 
-        <Button Text="Add Student" Clicked="AddStudents" />
-
-        <ListView ItemsSource="{Binding StudentObservableCollection} ">
+        <ListView
+            ItemsSource="{Binding StudentObservableCollection}"
+            ItemSelected="StudentList_ItemSelected"
+            >
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <TextCell Text="{Binding StudentName}" Detail="{Binding StudentNumber}"/>

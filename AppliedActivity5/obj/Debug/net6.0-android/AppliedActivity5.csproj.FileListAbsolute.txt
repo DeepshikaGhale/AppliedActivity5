@@ -152,7 +152,6 @@
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/Mono.Android.Export.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/Mono.Android.Export.pdb
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/Mono.Android.pdb
-/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/mscorlib.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/netstandard.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/SQLite-net.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/SQLitePCLRaw.batteries_v2.dll
@@ -163,7 +162,6 @@
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/SQLitePCLRaw.provider.e_sqlite3.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.AppContext.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Buffers.dll
-/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Collections.Concurrent.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Collections.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Collections.Immutable.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Collections.NonGeneric.dll
@@ -179,7 +177,6 @@
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Core.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Data.Common.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Data.DataSetExtensions.dll
-/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Data.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Diagnostics.Contracts.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Diagnostics.Debug.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Diagnostics.DiagnosticSource.dll
@@ -190,7 +187,6 @@
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Diagnostics.Tools.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Diagnostics.TraceSource.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Diagnostics.Tracing.dll
-/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Drawing.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Drawing.Primitives.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Dynamic.Runtime.dll
@@ -240,9 +236,7 @@
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Numerics.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Numerics.Vectors.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.ObjectModel.dll
-/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Private.CoreLib.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Private.DataContractSerialization.dll
-/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Private.Uri.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Private.Xml.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Private.Xml.Linq.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Reflection.DispatchProxy.dll
@@ -309,7 +303,6 @@
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Web.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Web.HttpUtility.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Windows.dll
-/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Xml.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Xml.Linq.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Xml.ReaderWriter.dll
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Xml.Serialization.dll
@@ -963,3 +956,10 @@
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/stamp/_GenerateJavaStubs.stamp
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/stamp/_GeneratePackageManagerJava.stamp
 /Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/stamp/_ResolveLibraryProjectImports.stamp
+/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/mscorlib.dll
+/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Collections.Concurrent.dll
+/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Data.dll
+/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.dll
+/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Private.CoreLib.dll
+/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Private.Uri.dll
+/Users/deepshikaghale/Projects/AppliedActivity5/AppliedActivity5/obj/Debug/net6.0-android/android/assets/System.Xml.dll

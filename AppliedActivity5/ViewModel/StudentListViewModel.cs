@@ -7,12 +7,6 @@ namespace AppliedActivity5.View;
 
 internal partial class StudentListViewModel: ObservableObject
 {
-    
-
-    public StudentListViewModel() {
-        
-    }
-
     //traces the changes in student model list
     //don't have to write the getter and setter for the property
     [ObservableProperty]
@@ -24,8 +18,11 @@ internal partial class StudentListViewModel: ObservableObject
     [ObservableProperty]
     private string studentNumber;
 
+    [RelayCommand]
     public void getAllStudents()
     {
+        StudentObservableCollection.Clear();
+
         //App.StudentRepo.GetAll();
         foreach (var student in App.StudentRepository.GetAllStudent())
         {

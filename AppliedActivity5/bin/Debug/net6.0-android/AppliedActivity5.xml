@@ -6,6 +6,7 @@
     <members>
         <member name="T:AppliedActivity5.View.StudentListViewModel">
             <inheritdoc/>
+            <inheritdoc/>
         </member>
         <member name="P:AppliedActivity5.View.StudentListViewModel.StudentObservableCollection">
             <inheritdoc cref="F:AppliedActivity5.View.StudentListViewModel.studentObservableCollection"/>
@@ -15,6 +16,12 @@
         </member>
         <member name="P:AppliedActivity5.View.StudentListViewModel.StudentNumber">
             <inheritdoc cref="F:AppliedActivity5.View.StudentListViewModel.studentNumber"/>
+        </member>
+        <member name="F:AppliedActivity5.View.StudentListViewModel._getAllStudentsCommand">
+            <summary>The backing field for <see cref="P:AppliedActivity5.View.StudentListViewModel.getAllStudentsCommand"/>.</summary>
+        </member>
+        <member name="P:AppliedActivity5.View.StudentListViewModel.getAllStudentsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:AppliedActivity5.View.StudentListViewModel.getAllStudents"/>.</summary>
         </member>
         <member name="T:AppliedActivity5.ViewModel.StudentViewModel">
             <inheritdoc/>
