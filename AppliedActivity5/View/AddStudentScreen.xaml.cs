@@ -9,7 +9,4 @@ public partial class AddStudentScreen : ContentPage
 		InitializeComponent();
 		BindingContext = new StudentViewModel(Navigation);
 	}
-
-   
-
 }

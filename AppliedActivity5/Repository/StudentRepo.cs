@@ -47,5 +47,42 @@ public class StudentRepo
         }
         return null;
     }
+
+    //update student 
+    public void UpdateStudent(StudentModel student) {
+        int result = 0;
+
+        try {
+            Init();
+            result = connection.Update(student);
+            StatusMessage = $"{result} Student updated successfully!";
+            Console.WriteLine(StatusMessage + result);
+        }
+        catch (Exception e)
+        {
+            StatusMessage = $"Error: {e.Message}";
+        }
+    }
+
+    //delete student
+    public int DeleteStudent(int studentID)
+    {
+        int result = 0;
+
+        try
+        {
+            Init();
+            result = connection.Delete<StudentModel>(studentID);
+            StatusMessage = $"{result} Student deleted successfully!";
+            Console.WriteLine(StatusMessage + result);
+            return result;
+        }
+        catch (Exception e)
+        {
+            StatusMessage = $"Error: {e.Message}";
+        }
+
+        return result;
+    }
 }
 

@@ -7,11 +7,21 @@
              Title="StudentDetailsScreen">
     <VerticalStackLayout>
         <Label 
-            Text="Student Details"
+            Text="{Binding StudentName, StringFormat='Student Name:, {0}'}"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
 
-         
+        <Label 
+            Text="{Binding StudentNumber, StringFormat='Student Number:, {0}'}"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
 
+        <Label 
+            Text="{Binding StudentAge, StringFormat='Student Age:, {0}'}"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <Button Text="Edit" />
+        <Button Text="Delete" Clicked="DeleteStudentDetails"/>
     </VerticalStackLayout>
 </ContentPage>

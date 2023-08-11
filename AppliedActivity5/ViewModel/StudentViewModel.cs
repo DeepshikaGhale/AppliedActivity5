@@ -55,8 +55,28 @@ internal partial class StudentViewModel: ObservableObject
 			);
 	}
 
-   
+    [RelayCommand]
+    private void updateStudentDetails(int StudentID)
+    {
+		//details to update student model
+        student = new StudentModel
+        {
+			StudentID = StudentID,
+            StudentName = StudentName,
+            StudentNumber = StudentNumber,
+            Age = StudentAge,
+            Address = Address
+        };
 
+        App.StudentRepository.UpdateStudent(
+            student
+            );
+    }
+
+    public int deleteStudentDetails(int studentID) {
+		int result = App.StudentRepository.DeleteStudent(studentID);
+		return result;
+	}
 
 }
 

@@ -25,8 +25,6 @@
                 <Entry Placeholder="Student Number" Text="{Binding StudentNumber}"/>
             </Frame>
             <Button Text="Submit Student Details" Padding="15" Margin="20, 0, 20, 0" Command="{Binding addStudentCommand}"/>
-            <Button Text="Show Student List" Padding="15" Margin="20, 0, 20, 0" Command="{Binding GoToListCommand}" />
-
         </VerticalStackLayout>
 
         

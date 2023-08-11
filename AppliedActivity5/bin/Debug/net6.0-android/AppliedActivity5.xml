@@ -26,6 +26,7 @@
         <member name="T:AppliedActivity5.ViewModel.StudentViewModel">
             <inheritdoc/>
             <inheritdoc/>
+            <inheritdoc/>
         </member>
         <member name="P:AppliedActivity5.ViewModel.StudentViewModel.StudentName">
             <inheritdoc cref="F:AppliedActivity5.ViewModel.StudentViewModel.studentName"/>
@@ -44,6 +45,12 @@
         </member>
         <member name="P:AppliedActivity5.ViewModel.StudentViewModel.addStudentCommand">
             <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:AppliedActivity5.ViewModel.StudentViewModel.addStudent"/>.</summary>
+        </member>
+        <member name="F:AppliedActivity5.ViewModel.StudentViewModel._updateStudentDetailsCommand">
+            <summary>The backing field for <see cref="P:AppliedActivity5.ViewModel.StudentViewModel.updateStudentDetailsCommand"/>.</summary>
+        </member>
+        <member name="P:AppliedActivity5.ViewModel.StudentViewModel.updateStudentDetailsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:AppliedActivity5.ViewModel.StudentViewModel.updateStudentDetails(System.Int32)"/>.</summary>
         </member>
         <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
             <summary>
